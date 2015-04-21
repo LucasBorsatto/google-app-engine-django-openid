@@ -1,0 +1,1 @@
+# Moved to [github](https://github.com/wtanaka/google-app-engine-django-openid) due to google code shutting down. #
